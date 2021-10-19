@@ -2,14 +2,29 @@ import React from 'react';
 import Footer from '../components/footer';
 import Header from '../components/header';
 import Products from './Products';
+import Forum from './Forum';
+import {
+  BrowserRouter as Router,
+  Switch,
+  Route,
+} from "react-router-dom";
 
 
 function Home() {
   return (
     <div className="App">
-      <Header/>
-      <Products/>
-      <Footer/>
+      <Router>
+        <Header/>
+        <Switch>
+          <Route exact path="/">
+            <Products/>
+          </Route>
+          <Route path="/details/:id">
+            <Forum/>
+          </Route>
+        </Switch>
+      </Router>
+        <Footer/>
     </div>   
   );
 }
