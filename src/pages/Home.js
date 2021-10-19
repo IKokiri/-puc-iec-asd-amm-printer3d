@@ -1,16 +1,16 @@
 import React from 'react';
-import data from '../api/products/products.json'
-import Product from '../components/product';
+import Footer from '../components/footer';
+import Header from '../components/header';
+import Products from './Products';
+
 
 function Home() {
   return (
     <div className="App">
-      {
-      data.map((e) => {
-        return <Product title={e.title} description={e.description} image={e.image}/>
-      })
-      }
-    </div>
+      <Header/>
+      <Products/>
+      <Footer/>
+    </div>   
   );
 }
 
