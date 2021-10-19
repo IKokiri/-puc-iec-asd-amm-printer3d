@@ -7,7 +7,7 @@ function Products() {
     <div className="App">
       {
       data.map((e) => {
-        return <Product key={e.title} title={e.title} description={e.description} image={e.image}/>
+        return <Product key={e.id} title={e.title} description={e.description} image={e.image}/>
       })
       }
     </div>
