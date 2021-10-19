@@ -1,0 +1,17 @@
+import React from 'react';
+import data from '../api/products/products.json'
+import Product from '../components/product';
+
+function Home() {
+  return (
+    <div className="App">
+      {
+      data.map((e) => {
+        return <Product title={e.title} description={e.description} image={e.image}/>
+      })
+      }
+    </div>
+  );
+}
+
+export default Home;

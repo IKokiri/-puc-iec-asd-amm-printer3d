@@ -1,0 +1,42 @@
+[
+  {
+    "image":"images/imp1.png",
+    "title":"Impressora Master",
+    "description":"Erro no extrusor"
+  },
+  {
+    "image":"images/imp2.png",
+    "title":"Impressora Dragon",
+    "description":"Não imprimei quando mesa muito quente"
+  },
+  {
+    "image":"images/imp3.png",
+    "title":"Impressora Happ",
+    "description":"Alinhar mesa"
+  },
+  {
+    "image":"images/imp3.png",
+    "title":"Impressora Happ",
+    "description":"Alinhar mesa"
+  },
+  {
+    "image":"images/imp3.png",
+    "title":"Impressora Happ",
+    "description":"Alinhar mesa"
+  },
+  {
+    "image":"images/imp3.png",
+    "title":"Impressora Happ",
+    "description":"Alinhar mesa"
+  },
+  {
+    "image":"images/imp3.png",
+    "title":"Impressora Happ",
+    "description":"Alinhar mesa"
+  },
+  {
+    "image":"images/imp3.png",
+    "title":"Impressora Happ",
+    "description":"Alinhar mesa"
+  }
+]
