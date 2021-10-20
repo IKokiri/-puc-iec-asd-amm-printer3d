@@ -1,30 +1,37 @@
 [
   {
     "id_product": 1,
+    "name": "Roberto Eustáquio",
     "answer":"Uma outra alternativa seria a diminuição da temperatura de extrusão. Tomar cuidado para não diminuir demais e forçar o extrusor."
   },
   {
     "id_product": 1,
+    "name": "Roberto Richard",
     "answer":"Eu acho que pode ser alta velocidade de impressão: mesmo com a instalação do cooler, às vezes será necessário diminuir a velocidade de impressão, principalmente no perímetro externo, pois com velocidades mais baixas o apoio sob a camada inferior fica mais uniforme, e terá um tempo maior para resfriar, causando uma melhora significativa da peça"
   },
   {
     "id_product": 2,
+    "name": "Emanuel Roberto",
     "answer":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse vitae sapien bibendum, mollis risus non, consequat nunc."
   },
   {
     "id_product": 2,
+    "name": "Jadaer Roberto",
     "answer":"Aenean scelerisque ante in congue dignissim."
   },
   {
     "id_product": 3,
+    "name": "Mirosvaldo Roberto",
     "answer":"Aliquam tincidunt sed dolor ut blandit. Vestibulum venenatis urna at suscipit vulputate. "
   },
   {
     "id_product": 3,
+    "name": "Angelo Roberto",
     "answer":"Suspendisse a sodales mi. Duis hendrerit, ipsum eu dapibus semper, nibh nunc posuere odio, eget posuere massa leo id mauris. Ut et rhoncus massa, at suscipit arcu."
   },
   {
     "id_product": 1,
+    "name": "Robert Roberto",
     "answer":"para peças muito pequenas, aconselha-se a colocação de mais de uma peça na mesa, de preferência em cantos opostos, gerando um tempo maior de resfriamento."
   }
 ]
